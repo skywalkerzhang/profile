@@ -13,7 +13,7 @@ export default function Home() {
                         class="flex justify-start m-0 p-0 w-52 h-64 rounded-md" />
                     <div class="mx-8 w-full">
                         <h1 class="text-left text-2xl flex-row">
-                            Name: <span class="text-yellow">Xiongrong Jin</span>
+                            Name: <span class="text-yellow">Yue Zhang</span>
                         </h1>
                         <div class="text-lg">Self Introduction</div>
                         <p class="text-pink">
@@ -33,7 +33,7 @@ export default function Home() {
                         </div>
                         <ul class="flex mt-4">
                             <li class="hover:text-blue hover:cursor-pointer mr-4">
-                                <a href="https://www.baidu.com" target="_blank"     >
+                                <a href="https://github.com/skywalkerzhang" target="_blank"     >
                                     <Fa icon={faGithub} />
                                 </a>
                             </li>
