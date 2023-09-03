@@ -15,12 +15,12 @@ function App() {
                         <Fa icon={theme.isDark ? faMoon : faSun} />
                     </span>
                     <h1>Yue's Site</h1>
-                    <A href="/" class="hover:text-subtext0">home</A>
-                    <A href="/blogs" class="hover:text-subtext0">blogs</A>
+                    <A href="/profile" class="hover:text-subtext0">home</A>
+                    <A href="/profile/blogs" class="hover:text-subtext0">blogs</A>
                 </header>
                 <Routes>
-                    <Route path="/" component={Home} />
-                    <Route path="/blogs" component={Blog} />
+                    <Route path="/profile" component={Home} />
+                    <Route path="/profile/blogs" component={Blog} />
                 </Routes>
             </div>
         </div>
