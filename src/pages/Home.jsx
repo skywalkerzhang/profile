@@ -26,7 +26,7 @@ export default function Home() {
                         <Fa icon={faEnvelope} scale={0.9} translateY={0.3} />
                         <span class="text-green ml-2">
                             <a class="hover:text-blue" href="mailto:skywalkerzhang19@163.com">
-                                skywalkerzhang19@163.com</a>
+                                skywalkerzhang19@gmail.com</a>
                         </span>
                     </div>
                     <ul class="mt-2 flex">
@@ -51,7 +51,7 @@ export default function Home() {
                 <div class="mt-4 flex-row">
                     <div class="flex justify-between">
                         <div class="font-bold">
-                            PhD student at University of Texas at Dallas
+                            PhD student at the University of Texas at Dallas
                         </div>
                         <div>starting on 08/2023</div>
                     </div>
@@ -138,7 +138,15 @@ export default function Home() {
                 </div>
                 <div class="flex justify-between">
                     <div>
-                        Government Scholarship Awarded by Education Department of Zhejiang Province
+                        Government Scholarship Awarded by the Education Department of Zhejiang Province
+                    </div>
+                    <div>
+                        2018
+                    </div>
+                </div>
+                <div class="flex justify-between">
+                    <div>
+                        First-class Scholarship of Zhejiang Normal University
                     </div>
                     <div>
                         2018
