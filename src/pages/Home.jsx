@@ -26,7 +26,7 @@ export default function Home() {
                         <Fa icon={faEnvelope} scale={0.9} translateY={0.3} />
                         <span class="text-green ml-2">
                             <a class="hover:text-blue" href="mailto:skywalkerzhang19@163.com">
-                                skywalkerzhang19@gmail.com</a>
+                                skywalkerzhang19 AT gmail DOT com</a>
                         </span>
                     </div>
                     <ul class="mt-2 flex">
@@ -53,7 +53,7 @@ export default function Home() {
                         <div class="font-bold">
                             PhD student at the University of Texas at Dallas
                         </div>
-                        <div>starting on 08/2023</div>
+                        <div>started on 08/2023</div>
                     </div>
                     <div class="flex justify-between mt-2">
                         <div class="font-bold">
