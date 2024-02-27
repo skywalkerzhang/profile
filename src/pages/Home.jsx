@@ -16,7 +16,7 @@ export default function Home() {
                     </h1>
                     <div class="text-lg">Self Introduction</div>
                     <p class="text-pink mt-2">
-                        Hi I am Yue Zhang(Lunar) -  a CS PhD student at UTD, focusing on NLP and related fields.
+                        Hi I am Yue Zhang (Lunar) -  a CS PhD student at UTD, focusing on NLP and related fields.
                     </p>
                     <hr class="mt-2" />
                     <div class="mt-12 text-lg">
@@ -53,7 +53,7 @@ export default function Home() {
                         <div class="font-bold">
                             PhD student at the University of Texas at Dallas
                         </div>
-                        <div>started on 08/2023</div>
+                        <div>08/2023-present</div>
                     </div>
                     <div class="flex justify-between mt-2">
                         <div class="font-bold">
