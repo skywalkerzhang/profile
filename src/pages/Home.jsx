@@ -81,7 +81,7 @@ export default function Home() {
                 <div class="mt-4 flex-row">
                     <div class="flex justify-between">
                         <div class="font-bold">
-                            Research Assistant, Hong Kong University of Science and Technology(Guangzhou)
+                            Research Assistant, Hong Kong University of Science and Technology(Guangzhou) | Supervisor: <a href="https://cse.hkust.edu.hk/~hunkim/" target="_blank">Sung Kim</a>, <a href="https://www.lucypark.kr/" target="_blank">Lucy Park</a>
                         </div>
                         <div>04/2022-03/2023</div>
                     </div>
@@ -96,7 +96,7 @@ export default function Home() {
                     </div>
                     <div class="flex justify-between mt-2">
                         <div class="font-bold">
-                            Graduation Project--ECG (Electrocardiograph) QRS Feature Disease Recognition
+                            Graduation Project--ECG (Electrocardiograph) QRS Feature Disease Recognition | Supervisor: <a href="https://personalpages.manchester.ac.uk/staff/david.wong/default.htm" target="_blank">David Wong</a>
                         </div>
                         <div>01/2021-09/2021</div>
                     </div>
