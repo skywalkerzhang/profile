@@ -86,16 +86,13 @@ export default function Home() {
                         <div>04/2022-03/2023</div>
                     </div>
                     <div class="list-item ml-4">
-                        Conducted research on multi-modal documentation and OCR post-correction model;
+                        Conducted research on Information Extraction in Multimodal documentation, training and fine-tuning a series BERT-based model.
                     </div>
                     <div class="list-item ml-4">
-                        Participated in the competition of VQAonBD(top3) and SVRD(top3), and used Donut(an OCR-free end2end model) to build a pipeline for document information extraction and document question answering;
+                        Introduced a Post Correction Model to improve information extraction results in the field of multimodal document information extraction, improving the accuracy from 68.4438 to 71.6858
                     </div>
                     <div class="list-item ml-4">
-                        Built a pipeline to process RTF(Rich Text Format) documents. The final F1 value on the SROIE dataset was 93.8590, and the accuracy of each entity increased from 68.4438 to 71.6858;
-                    </div>
-                    <div class="list-item ml-4">
-                        Built a pipeline on DocVQA using layoutlmv2; achieved 0.765 on this dataset, ranking 13 out of 45 on the ICDAR website.
+                        Proposed Extract Answer Merge Answer (EAMA) in the field of multimodal table information extraction, achieving third place winner in the VQAonBD task of the ICDAR competition.
                     </div>
                     <div class="flex justify-between mt-2">
                         <div class="font-bold">
@@ -166,6 +163,23 @@ export default function Home() {
                     PAPERS
                 </div>
                 <hr class="mt-2" />
+                <div class="mt-4 flex-row">
+                    <div class="flex justify-between">
+                        <div class="font-bold">
+                            <a href="https://arxiv.org/pdf/2402.11414.pdf" target="_blank">
+                                Fine-grained and Explanable Factuality Evaluation for Multimodal Summarization
+                            </a>
+                        </div>
+
+                        <div>Under Review by ARR</div>
+                    </div>
+                    <div class="list-item ml-4">
+                       Propose fine-grained and explainable factuality evaluation frameworks for multimodal summarization under reference-based and reference-free scenarios.
+                    </div>
+                    <div class="list-item ml-4">
+                        Responsible for idea discussion, data collection and annotation, experiment design, and initial paper writing.
+                    </div>
+                </div>
             </Card>
         </div>
     )
