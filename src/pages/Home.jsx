@@ -51,13 +51,14 @@ export default function Home() {
                 <div class="mt-4 flex-row">
                     <div class="flex justify-between">
                         <div class="font-bold">
-                            PhD student at the University of Texas at Dallas |  Supervisor: <a href="https://personal.utdallas.edu/~sanda/index.html" target="_blank">Prof. Sanda Harabagiu</a>
+                            the University of Texas at Dallas
                         </div>
-                        <div>08/2023-present</div>
+                        <div>08/2023-Present</div>
                     </div>
+                    <div>Ph.D. student,  Supervisor: <a href="https://personal.utdallas.edu/~sanda/index.html" target="_blank">Prof. Sanda Harabagiu</a>| 4.0/4.0</div>
                     <div class="flex justify-between mt-2">
                         <div class="font-bold">
-                            University of Manchester, UK
+                            the University of Manchester, UK
                         </div>
                         <div>09/2020-09/2021</div>
                     </div>
