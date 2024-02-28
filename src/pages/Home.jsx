@@ -25,7 +25,7 @@ export default function Home() {
                     <div class="flex">
                         <Fa icon={faEnvelope} scale={0.9} translateY={0.3} />
                         <span class="text-green ml-2">
-                            <a class="hover:text-blue" href="mailto:skywalkerzhang19@163.com">
+                            <a class="hover:text-blue" href="mailto:skywalkerzhang19@gmail.com">
                                 skywalkerzhang19 AT gmail DOT com</a>
                         </span>
                     </div>
@@ -55,7 +55,7 @@ export default function Home() {
                         </div>
                         <div>08/2023-Present</div>
                     </div>
-                    <div>Ph.D. student,  Supervisor: <a href="https://personal.utdallas.edu/~sanda/index.html" target="_blank">Prof. Sanda Harabagiu</a>| 4.0/4.0</div>
+                    <div>Ph.D. student,  Supervisor: <a href="https://personal.utdallas.edu/~sanda/index.html" target="_blank">Prof. Sanda Harabagiu</a> | Current GPA: 4.0/4.0</div>
                     <div class="flex justify-between mt-2">
                         <div class="font-bold">
                             the University of Manchester, UK
@@ -70,7 +70,7 @@ export default function Home() {
                         <div>09/2016-06/2020</div>
                     </div>
                     <div class="">
-                        B.E. in Computer Science and Technology | Overall GPA: 92/ 100 (Ranked: 1/34)
+                        B.E. in Computer Science and Technology | Overall GPA: 92/100 (Ranked: 1/34)
                     </div>
                 </div>
             </Card>
