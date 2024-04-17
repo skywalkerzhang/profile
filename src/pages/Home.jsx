@@ -55,7 +55,7 @@ export default function Home() {
                         </div>
                         <div>08/2023-Present</div>
                     </div>
-                    <div>Ph.D. student,  Supervisor: <a href="https://personal.utdallas.edu/~sanda/index.html" target="_blank">Prof. Sanda Harabagiu</a> | Current GPA: 4.0/4.0</div>
+                    <div>Ph.D. student | Current GPA: 4.0/4.0</div>
                     <div class="flex justify-between mt-2">
                         <div class="font-bold">
                             the University of Manchester, UK
