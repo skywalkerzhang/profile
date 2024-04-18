@@ -128,14 +128,6 @@ export default function Home() {
                 </div>
                 <div class="flex justify-between">
                     <div>
-                        Second-class Scholarship of Zhejiang Normal University
-                    </div>
-                    <div>
-                        2019
-                    </div>
-                </div>
-                <div class="flex justify-between">
-                    <div>
                         Government Scholarship Awarded by the Education Department of Zhejiang Province
                     </div>
                     <div>
@@ -147,15 +139,7 @@ export default function Home() {
                         First-class Scholarship of Zhejiang Normal University
                     </div>
                     <div>
-                        2018
-                    </div>
-                </div>
-                <div class="flex justify-between">
-                    <div>
-                        Second-class Scholarship of Zhejiang Normal University
-                    </div>
-                    <div>
-                        2017
+                        2017, 2018, 2019
                     </div>
                 </div>
             </Card>
