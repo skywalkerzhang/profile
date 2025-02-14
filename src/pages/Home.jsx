@@ -16,7 +16,7 @@ export default function Home() {
                     </h1>
                     <div class="text-lg">Self Introduction</div>
                     <p class="text-pink mt-2">
-                        Hi I am Yue Zhang (Lunar) -  a CS PhD student at UTD, focusing on Vision and Language and related fields.
+                        Hi I am Yue Zhang (Luna) -  a CS PhD student at UTD, focusing on Vision and Language and related fields. My supervisor is Professor <a href="https://personal.utdallas.edu/~vibhav.gogate/" target="_blank">  Vibhav Gogate </a>
                     </p>
                     <hr class="mt-2" />
                     <div class="mt-12 text-lg">
@@ -155,14 +155,22 @@ export default function Home() {
                                 Fine-grained and Explanable Factuality Evaluation for Multimodal Summarization
                             </a>
                         </div>
-
-                        <div>Under Review by ARR</div>
-                    </div>
-                    <div class="list-item ml-4">
-                       Propose fine-grained and explainable factuality evaluation frameworks for multimodal summarization under reference-based and reference-free scenarios.
-                    </div>
-                    <div class="list-item ml-4">
-                        Responsible for idea discussion, data collection and annotation, experiment design, and initial paper writing.
+                        <div>AAAI 2025</div>
+                        <div class="list-item ml-4">
+                            Yue Zhang, Jingxuan Zuo, Liqiang Jing
+                        </div>
+                        <div class="font-bold">
+                            <a href="https://arxiv.org/pdf/2412.16232.pdf" target="_blank">
+                                Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization
+                            </a>
+                        </div>
+                        <div>AAAI 2025</div>
+                        <div class="font-bold">
+                            <a href="https://openreview.net/pdf?id=ZVDWzgk6L6" target="_blank">
+                                A Unified Hallucination Mitigation Framework for Large Vision-Language Models
+                            </a>
+                        </div>
+                        <div>AAAI 2025</div>
                     </div>
                 </div>
             </Card>
