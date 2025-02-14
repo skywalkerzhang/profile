@@ -40,7 +40,9 @@ jobs:
       - name: Build
         run: npm run build
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v3
+        with:
+          enablement: true
       - uses: actions/upload-artifact@v4
         with:
           name: my-artifact
