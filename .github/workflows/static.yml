@@ -33,12 +33,20 @@ jobs:
         run: |
           npm run build
           echo "Checking build output..."
-          ls -l ./dist  # 确保 dist 目录生成
+          ls -l ./dist  # ✅ 确保 dist 目录生成
 
+      # 🚀 ✅ 确保 `upload-pages-artifact` 版本正确
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v1  # ✅ 确保是 `v1`
         with:
           path: ./dist  # 确保路径正确
+
+      # 🚀 ✅ 确保 `upload-artifact` 也是 `v4`（如果需要）
+      - name: Upload build logs (可选)
+        uses: actions/upload-artifact@v4  # ✅ 必须是 v4，不能是 v3！
+        with:
+          name: build-logs
+          path: ./dist
 
       - name: Deploy to GitHub Pages
         id: deployment
