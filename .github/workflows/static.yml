@@ -18,10 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # 确保使用 v4 版本
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4  # 确保使用 v4 版本
         with:
           node-version: 18
 
@@ -37,9 +37,10 @@ jobs:
           enablement: true
 
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-artifact@v4  # ✅ 确保这里是 v4
         with:
-          path: ./dist
+          name: github-pages
+          path: ./dist  # 确保路径正确
 
       - name: Deploy to GitHub Pages
         id: deployment
