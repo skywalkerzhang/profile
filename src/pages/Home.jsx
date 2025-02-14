@@ -16,7 +16,10 @@ export default function Home() {
                     </h1>
                     <div class="text-lg">Self Introduction</div>
                     <p class="text-pink mt-2">
-                        Hi I am Yue Zhang (Luna) -  a CS PhD student at UTD, focusing on Vision and Language and related fields. My supervisor is Professor <a href="https://personal.utdallas.edu/~vibhav.gogate/" target="_blank">  Vibhav Gogate </a>
+                        Hi I am Yue Zhang (Luna) -  a CS PhD student at UTD, focusing on Vision and Language and related fields. My supervisor is Professor 
+                        <a href="https://personal.utdallas.edu/~vibhav.gogate/" target="_blank">  
+                            Vibhav Gogate 
+                        </a>
                     </p>
                     <hr class="mt-2" />
                     <div class="mt-12 text-lg">
